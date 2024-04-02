@@ -2,15 +2,15 @@ package org.college;
 
 public class College {
 private void collegeName() {
-	// TODO Auto-generated method stub
+
 System.out.println("College Name: ABC");
 }
 private void collegeCode() {
-	// TODO Auto-generated method stub
+	
 System.out.println("Code: 4123");
 }
 private void collegeRank() {
-	// TODO Auto-generated method stub
+	
 System.out.println("Rank: 1");
 }
 public static void main(String[] args) {
